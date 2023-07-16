@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "gor": "Ryazan",
+            "ras": 2053,
+            "id": 1
+        },
+        {
+            "gor": "Moscov",
+            "ras": 9660,
+            "id": 2
+        },
+        {
+            "gor": "Fladivostok",
+            "ras": 3965,
+            "id": 3
+        },
+        {
+            "gor": "Samara",
+            "ras": 1188,
+            "id": 4
+        },
+        {
+            "gor": "Krasnoyarsk",
+            "ras": 3977,
+            "id": 5
+        }
+    ]
+}
